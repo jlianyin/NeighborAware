@@ -1,1 +1,1 @@
-# NeighborAware
+This implementation is based on the work of Lianyin Jia "Efficient Neighbor-aware Hilbert Encoding and Decoding algorithms"
