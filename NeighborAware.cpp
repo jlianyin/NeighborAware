@@ -4,7 +4,7 @@
  * Author:      Lianyin Jia
  *              Dept. of Computer Science
  *              Kunming University of Science & Technology
- * Date:        Mon Aug 23 2021
+ * Date:        Mon Aug 22 2022
  * Copyright (c)  Kunming University of Science & Technology
  *
  * Acknowledgement:
@@ -57,8 +57,8 @@ NA-HE
 input:
    prevCode: the encoded value of the previous coordinate
    iterStartPos: iterate start position (count in levels, one bits represent a level,the right most position is 0)  
-   gridX¡¢gridY: current coordinate  
-   nextX¡¢nextY: next coordinate
+   gridXÂ¡Â¢gridY: current coordinate  
+   nextXÂ¡Â¢nextY: next coordinate
    k: total number of levels 
 Output: the Hilbert code of the current coordinate
 */
